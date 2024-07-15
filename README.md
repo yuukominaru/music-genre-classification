@@ -1,1 +1,1 @@
-20240711 - upload files to github
+This repository contains a JSON file containing MFCC extraction results from the GTZAN dataset.
