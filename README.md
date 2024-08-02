@@ -1,1 +1,1 @@
-This repository contains a JSON file containing MFCC extraction results from the GTZAN dataset.
+This repository contains a JSON file containing MFCC extraction results from the GTZAN dataset and model training histories.
